@@ -1,0 +1,14 @@
+/Users/enkhtumenbayar/Documents/Jobs/OldPhone/obj/Debug/net9.0/OldPhone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enkhtumenbayar/Documents/Jobs/OldPhone/obj/Debug/net9.0/OldPhone.AssemblyInfoInputs.cache
+/Users/enkhtumenbayar/Documents/Jobs/OldPhone/obj/Debug/net9.0/OldPhone.AssemblyInfo.cs
+/Users/enkhtumenbayar/Documents/Jobs/OldPhone/obj/Debug/net9.0/OldPhone.csproj.CoreCompileInputs.cache
+/Users/enkhtumenbayar/Documents/Jobs/OldPhone/bin/Debug/net9.0/OldPhone
+/Users/enkhtumenbayar/Documents/Jobs/OldPhone/bin/Debug/net9.0/OldPhone.deps.json
+/Users/enkhtumenbayar/Documents/Jobs/OldPhone/bin/Debug/net9.0/OldPhone.runtimeconfig.json
+/Users/enkhtumenbayar/Documents/Jobs/OldPhone/bin/Debug/net9.0/OldPhone.dll
+/Users/enkhtumenbayar/Documents/Jobs/OldPhone/bin/Debug/net9.0/OldPhone.pdb
+/Users/enkhtumenbayar/Documents/Jobs/OldPhone/obj/Debug/net9.0/OldPhone.dll
+/Users/enkhtumenbayar/Documents/Jobs/OldPhone/obj/Debug/net9.0/refint/OldPhone.dll
+/Users/enkhtumenbayar/Documents/Jobs/OldPhone/obj/Debug/net9.0/OldPhone.pdb
+/Users/enkhtumenbayar/Documents/Jobs/OldPhone/obj/Debug/net9.0/OldPhone.genruntimeconfig.cache
+/Users/enkhtumenbayar/Documents/Jobs/OldPhone/obj/Debug/net9.0/ref/OldPhone.dll
