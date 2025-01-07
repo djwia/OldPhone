@@ -28,7 +28,7 @@ namespace OldPhone
         {
             //Test values
             string _value = OldPhonePad("33#");
-            string _value1 = OldPhonePad("22*#");
+            string _value1 = OldPhonePad("227*#");
             string _value2 = OldPhonePad("4433555 555666#");
             string _value3 = OldPhonePad("8 88777444666*664#");
             string _value4 = OldPhonePad("44 444#");

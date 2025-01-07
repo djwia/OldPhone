@@ -12,3 +12,4 @@
 /Users/enkhtumenbayar/Documents/Jobs/OldPhone/obj/Debug/net9.0/OldPhone.pdb
 /Users/enkhtumenbayar/Documents/Jobs/OldPhone/obj/Debug/net9.0/OldPhone.genruntimeconfig.cache
 /Users/enkhtumenbayar/Documents/Jobs/OldPhone/obj/Debug/net9.0/ref/OldPhone.dll
+/Users/enkhtumenbayar/Documents/Jobs/OldPhone/obj/Debug/net9.0/OldPhone.sourcelink.json
